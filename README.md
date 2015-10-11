@@ -1,5 +1,5 @@
 # cme257demo
 
-This is a demo for showing how to set up a Julia package.
+Linux, OSX:  ![Build Status](https://travis-ci.org/bnels/cme257demo.jl.svg?branch=master)
 
-Travis: 
+This is a demo for showing how to set up a Julia package.
